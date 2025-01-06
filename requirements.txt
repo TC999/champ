@@ -7,7 +7,7 @@ numpy==1.23.5
 omegaconf==2.2.3
 Pillow==9.5.0
 safetensors==0.4.2
-torch==2.0.1
+torch==2.2.0
 torchvision==0.15.2
 tqdm==4.66.1
 transformers==4.30.2
