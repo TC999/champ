@@ -9,6 +9,6 @@ Pillow==9.5.0
 safetensors==0.4.2
 torch==2.0.1
 torchvision==0.15.2
-tqdm==4.66.1
+tqdm==4.66.3
 transformers==4.30.2
 xformers==0.0.22
